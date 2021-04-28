@@ -1,2 +1,2 @@
-# sap.github.io
-first repo for hosting a website on GitHub
+# https://ddhruv-iot.github.io/
+click on the above link to access the webiste.
